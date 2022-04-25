@@ -6,11 +6,11 @@ authors:
   -
     family-names: Palha
     given-names: Artur
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-date-released: 20??-MM-DD
+    orcid: "https://orcid.org/0000-0002-3217-0747"
+date-released: 2022-04-25
 doi: <insert your DOI here>
 version: "0.1.0"
-repository-code: "https://github.com/mimeticFEM4py/mimeticfem4py"
+repository-code: "https://github.com/apalha/mimeticfem4py"
 keywords:
   - FEM
   - Structure Preserving
