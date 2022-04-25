@@ -4,8 +4,8 @@
 
 | fair-software.eu recommendations | |
 | :-- | :--  |
-| (1/5) code repository              | [![github repo badge](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/mimeticFEM4py/mimeticfem4py) |
-| (2/5) license                      | [![github license badge](https://img.shields.io/github/license/mimeticFEM4py/mimeticfem4py)](https://github.com/mimeticFEM4py/mimeticfem4py) |
+| (1/5) code repository              | [![github repo badge](https://img.shields.io/badge/github-repo-000.svg?logo=github&labelColor=gray&color=blue)](https://github.com/apalha/mimeticfem4py) |
+| (2/5) license                      | [![github license badge](https://img.shields.io/github/license/mimeticFEM4py/mimeticfem4py)](https://github.com/apalha/mimeticfem4py) |
 | (3/5) community registry           | [![RSD](https://img.shields.io/badge/rsd-mimeticfem4py-00a3e3.svg)](https://www.research-software.nl/software/mimeticfem4py) [![workflow pypi badge](https://img.shields.io/pypi/v/mimeticfem4py.svg?colorB=blue)](https://pypi.python.org/project/mimeticfem4py/) |
 | (4/5) citation                     | [![DOI](https://zenodo.org/badge/DOI/<replace-with-created-DOI>.svg)](https://doi.org/<replace-with-created-DOI>) |
 | (5/5) checklist                    | [![workflow cii badge](https://bestpractices.coreinfrastructure.org/projects/<replace-with-created-project-identifier>/badge)](https://bestpractices.coreinfrastructure.org/projects/<replace-with-created-project-identifier>) |
@@ -15,10 +15,10 @@
 | Coverage                           | [![workflow scc badge](https://sonarcloud.io/api/project_badges/measure?project=mimeticFEM4py_mimeticfem4py&metric=coverage)](https://sonarcloud.io/dashboard?id=mimeticFEM4py_mimeticfem4py) |
 | Documentation                      | [![Documentation Status](https://readthedocs.org/projects/mimeticfem4py/badge/?version=latest)](https://mimeticfem4py.readthedocs.io/en/latest/?badge=latest) |
 | **GitHub Actions**                 | &nbsp; |
-| Build                              | [![build](https://github.com/mimeticFEM4py/mimeticfem4py/actions/workflows/build.yml/badge.svg)](https://github.com/mimeticFEM4py/mimeticfem4py/actions/workflows/build.yml) |
-| Citation data consistency               | [![cffconvert](https://github.com/mimeticFEM4py/mimeticfem4py/actions/workflows/cffconvert.yml/badge.svg)](https://github.com/mimeticFEM4py/mimeticfem4py/actions/workflows/cffconvert.yml) |
-| SonarCloud                         | [![sonarcloud](https://github.com/mimeticFEM4py/mimeticfem4py/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/mimeticFEM4py/mimeticfem4py/actions/workflows/sonarcloud.yml) |
-| MarkDown link checker              | [![markdown-link-check](https://github.com/mimeticFEM4py/mimeticfem4py/actions/workflows/markdown-link-check.yml/badge.svg)](https://github.com/mimeticFEM4py/mimeticfem4py/actions/workflows/markdown-link-check.yml) |
+| Build                              | [![build](https://github.com/apalha/mimeticfem4py/actions/workflows/build.yml/badge.svg)](https://github.com/apalha/mimeticfem4py/actions/workflows/build.yml) |
+| Citation data consistency               | [![cffconvert](https://github.com/apalha/mimeticfem4py/actions/workflows/cffconvert.yml/badge.svg)](https://github.com/apalha/mimeticfem4py/actions/workflows/cffconvert.yml) |
+| SonarCloud                         | [![sonarcloud](https://github.com/apalha/mimeticfem4py/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/apalha/mimeticfem4py/actions/workflows/sonarcloud.yml) |
+| MarkDown link checker              | [![markdown-link-check](https://github.com/apalha/mimeticfem4py/actions/workflows/markdown-link-check.yml/badge.svg)](https://github.com/apalha/mimeticfem4py/actions/workflows/markdown-link-check.yml) |
 
 ## How to use mimeticfem4py
 
@@ -31,7 +31,7 @@ The project setup is documented in [project_setup.md](project_setup.md). Feel fr
 To install mimeticfem4py from GitHub repository, do:
 
 ```console
-git clone https://github.com/mimeticFEM4py/mimeticfem4py.git
+git clone https://github.com/apalha/mimeticfem4py.git
 cd mimeticfem4py
 python3 -m pip install .
 ```
